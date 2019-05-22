@@ -8,9 +8,9 @@ Developers' Newsletter (r2)
 
 For those developers new to using the Census API we have created a tutorial, which draws a simple and straightforward path to discovering the data you're interested in and then finding their home in the API. 
 
-## Introduction to Census APIs and [data.census.gov](https://data.census.gov/cedsci/) on [YouTube]()
+## Introduction to Census APIs and [data.census.gov](https://data.census.gov/cedsci/)
 
-![Screenshot](https://raw.githubusercontent.com/loganpowell/newsletters/master/r2/data_census_gov.PNG)
+[![Screenshot](https://raw.githubusercontent.com/loganpowell/newsletters/master/r2/data_census_gov.PNG)](https://www.youtube.com)
 
 In this video we'll use [data.census.gov](https://data.census.gov/cedsci/) to search for variables by topic and available geography. Then we'll use the metadata exposed in the tool to aid our discovery of those variables in the API
 
