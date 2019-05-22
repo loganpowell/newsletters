@@ -1,5 +1,9 @@
 Developers' Newsletter (r2)
 
+# Preview Text
+
+Get acquainted with Census APIs and learn how to build Census maps with JavaScript
+
 # Subject:
 
 ## CitySDK v2 Tutorials Now on YouTube
