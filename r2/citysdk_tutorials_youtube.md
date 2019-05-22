@@ -10,14 +10,14 @@ For those developers new to using the Census API we have created a tutorial, whi
 
 ## Introduction to Census APIs and [data.census.gov](https://data.census.gov/cedsci/) on [YouTube]()
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/loganpowell/newsletters/master/r2/data_census_gov.PNG)
 
 In this video we'll use [data.census.gov](https://data.census.gov/cedsci/) to search for variables by topic and available geography. Then we'll use the metadata exposed in the tool to aid our discovery of those variables in the API
 
 
 ## Getting Started with The [CitySDK](https://github.com/uscensusbureau/citysdk)
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/loganpowell/newsletters/master/r2/parameters.PNG)
 
 In this tutorial, we'll continue where we left off from the Introduction video, but we will focus on a library designed to help JavaScript developers incorporate Census data and/or build maps using these data.
 
